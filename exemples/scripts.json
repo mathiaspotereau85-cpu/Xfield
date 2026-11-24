@@ -1,0 +1,12 @@
+[
+  {
+    "text": "Bonjour et bienvenue ! Dans cette vidéo, je vous montre trois outils d'IA gratuits.",
+    "image_prompt": "portrait d'un jeune créateur de contenu, éclairage néon, arrière-plan flou, photo réaliste",
+    "name": "intro"
+  },
+  {
+    "text": "Abonnez-vous pour ne rien rater, et à très vite !",
+    "image_prompt": "portrait d'un jeune créateur de contenu, éclairage néon, arrière-plan flou, photo réaliste, qui sourit",
+    "name": "outro"
+  }
+]
